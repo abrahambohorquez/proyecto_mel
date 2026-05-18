@@ -1,0 +1,4 @@
+streamlit==1.39.0
+plotly>=5.18
+numpy>=1.23
+starlette==0.41.3
